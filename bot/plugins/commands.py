@@ -11,7 +11,7 @@ async def start(bot, update):
     
     buttons = [[
         InlineKeyboardButton('♻️Group', url='https://t.me/MovieNight120'),
-        InlineKeyboardButton('Channel📃', url ='https://t.me/joinchat/HKLQU33m1l00NTI9')
+        InlineKeyboardButton('Channe📃', url ='https://t.me/joinchat/HKLQU33m1l00NTI9')
     ],[
         InlineKeyboardButton('Chanel2', url='https://t.me/MovieNight124')
     ],[
